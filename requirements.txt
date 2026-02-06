@@ -115,4 +115,3 @@ virtualenv==20.36.1
 Werkzeug==3.1.5
 wheel==0.45.1
 
-zstandard @ file:///C:/miniconda3/conda-bld/zstandard_1758189089298/work
